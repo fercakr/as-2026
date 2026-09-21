@@ -11,4 +11,4 @@ za celý školní rok. Odevzdává se commitem, ne mailem.
 
 ## Kdoco
 
-Kód žáka: 4 · třída IT2
+Kód žáka: 4 · třída IT2 wd
