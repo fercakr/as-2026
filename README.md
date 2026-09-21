@@ -9,6 +9,6 @@ za celý školní rok. Odevzdává se commitem, ne mailem.
 - `2026-10/` — říjen: relační model
 - (další měsíce přibudou)
 
-## Kdoco
+## Kdocosd
 
 Kód žáka: 4 · třída IT2 wd
