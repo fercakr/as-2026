@@ -1,0 +1,13 @@
+id_prihlasky;id_zaka;id_krouzku;zaplaceno
+1;1;1;ano
+2;2;2;ano
+3;3;1;ne
+4;4;3;ano
+5;1;3;
+6;5;4;ano
+7;6;1;ano
+8;4;2;ne
+9;5;1;ano
+10;2;4;ano
+11;3;3;ano
+12;6;2;
